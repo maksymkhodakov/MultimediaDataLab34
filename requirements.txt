@@ -1,0 +1,17 @@
+# Python 3.14 (перевірено), Apple Silicon (MPS)
+torch==2.14.1
+torchvision==0.29.1
+ultralytics==8.4.183
+easyocr==1.7.2
+opencv-python==5.0.0.93
+numpy==2.5.4
+pandas==3.1.0
+matplotlib==3.11.2
+pillow==13.0.0
+imageio-ffmpeg==0.6.0
+lap==0.5.13
+huggingface_hub==2.2.0
+python-docx==1.2.0
+jupyter==1.1.1
+nbconvert==7.17.2
+ipykernel==7.4.0

@@ -4,5 +4,7 @@
 __pycache__/
 *.pyc
 *.pt
+*.onnx
+models/
 src/runs/
 data/
